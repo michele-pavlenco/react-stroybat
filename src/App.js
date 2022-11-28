@@ -3,11 +3,11 @@ import React from 'react'
 
 import Nav from './Components/Nav'
 import Footer from './Components/Footer';
-import Home from './Components/Home';
-import Company from './Components/Company';
-import Services from './Components/Services';
-import Projects from './Components/Projects';
-import Contacts from './Components/Contacts';
+import Home from './Components/Pages/Home/Home';
+import Company from './Components/Pages/Company/Company';
+import Services from './Components/Pages/Services/Services';
+import Projects from './Components/Pages/Projects/Projects';
+import Contacts from './Components/Pages/contacts/Contacts';
 
 import {
   BrowserRouter as Router,

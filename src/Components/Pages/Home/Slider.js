@@ -1,6 +1,7 @@
 import React from 'react'
-import img1 from '../images/sliders/1.jpg';
-import img2 from '../images/sliders/2.jpg';
+import img1 from '../../.././images/sliders/1.jpg';
+import img2 from '../../.././images/sliders/2.jpg';
+
 
 // import img1 from '.../images/sliders/1.jpg';
 // import img2 from '../images/sliders/2.jpg';
@@ -12,7 +13,7 @@ const Slider = () => {
                 <div className="slick-carousel carousel-arrows-light m-slides-0"
                     data-slick='{"slidesToShow": 1, "arrows": true, "dots": true, "speed": 700,"fade": true,"cssEase": "linear"}'>
                     <div className="slide-item align-v-h bg-overlay bg-overlay-2">
-                        {/* <div className="bg-img"><img src={img1} alt="slide img" /></div> */}
+                        <div className="bg-img"><img src={img1} alt="slide img" /></div>
                         <div className="container">
                             <div className="row">
                                 <div className="col-sm-12 col-md-12 col-lg-12 col-xl-9">
