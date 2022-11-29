@@ -31,8 +31,8 @@ const HomeWorks = () => {
                                         </div>
                                         <p className="portfolio__desc">We understand that data is greatest asset when it comes to analyzing and
                                             optimizing your supply chain performance.</p>
-                                        <a href="projects-single-project.html" className="btn btn__loadMore"><span>Explore More</span><i
-                                        ><AiOutlineArrowRight /></i></a>
+                                        <a href="projects-single-project.html" className="btn btn__loadMore"><span>Explore More</span>
+                                            <i><AiOutlineArrowRight /></i></a>
                                     </div>
                                 </div>
 
@@ -47,8 +47,8 @@ const HomeWorks = () => {
                                         </div>
                                         <p className="portfolio__desc">Cost savings is crucial, innovative technology minimizes your overall spend
                                             by utilizing an extensive consolidation.</p>
-                                        <a href="projects-single-project.html" className="btn btn__loadMore"><span>Explore More</span><i
-                                            className="icon-arrow-right"></i></a>
+                                        <a href="projects-single-project.html" className="btn btn__loadMore"><span>Explore More</span>
+                                            <i><AiOutlineArrowRight /></i></a>
                                     </div>
                                 </div>
 
@@ -64,7 +64,7 @@ const HomeWorks = () => {
                                         <p className="portfolio__desc">Our Group has been building relationships and projects last. Serving an
                                             impressive list of long-term clients with experience.</p>
                                         <a href="projects-single-project.html" className="btn btn__loadMore"><span>Explore More</span><i
-                                            className="icon-arrow-right"></i></a>
+                                        ><AiOutlineArrowRight /></i></a>
                                     </div>
                                 </div>
 
@@ -80,7 +80,7 @@ const HomeWorks = () => {
                                         <p className="portfolio__desc">Cost savings is crucial, innovative technology minimizes your overall spend
                                             by utilizing an extensive consolidation.</p>
                                         <a href="projects-single-project.html" className="btn btn__loadMore"><span>Explore More</span><i
-                                            className="icon-arrow-right"></i></a>
+                                        ><AiOutlineArrowRight /></i></a>
                                     </div>
                                 </div>
 
@@ -96,7 +96,7 @@ const HomeWorks = () => {
                                         <p className="portfolio__desc">Our Group has been building relationships and projects last. Serving an
                                             impressive list of long-term clients with experience.</p>
                                         <a href="projects-single-project.html" className="btn btn__loadMore"><span>Explore More</span><i
-                                            className="icon-arrow-right"></i></a>
+                                        ><AiOutlineArrowRight /></i></a>
                                     </div>
                                 </div>
 
@@ -112,7 +112,7 @@ const HomeWorks = () => {
                                         <p className="portfolio__desc">We understand that data is greatest asset when it comes to analyzing and
                                             optimizing your supply chain performance.</p>
                                         <a href="projects-single-project.html" className="btn btn__loadMore"><span>Explore More</span><i
-                                            className="icon-arrow-right"></i></a>
+                                        ><AiOutlineArrowRight /></i></a>
                                     </div>
                                 </div>
                             </div>

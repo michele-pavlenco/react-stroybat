@@ -8276,3 +8276,13 @@ textarea.form-control {
     font-size: 45px;
   }
 }
+
+/* added from me */
+.portfolio-item {
+  width: calc(100% / 3);
+  padding: 60px;
+}
+.slick-carousel {
+  display: flex;
+  flex-wrap: wrap;
+}
