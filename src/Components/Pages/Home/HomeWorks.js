@@ -67,7 +67,7 @@ const HomeWorks = () => {
                                         ><AiOutlineArrowRight /></i></a>
                                     </div>
                                 </div>
-
+                                {/* 
                                 <div className="portfolio-item">
                                     <div className="portfolio__img">
                                         <img src={Work1} alt="portfolio img" />
@@ -114,7 +114,7 @@ const HomeWorks = () => {
                                         <a href="projects-single-project.html" className="btn btn__loadMore"><span>Explore More</span><i
                                         ><AiOutlineArrowRight /></i></a>
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>
