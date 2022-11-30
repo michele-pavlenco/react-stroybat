@@ -11,7 +11,7 @@ const HomeWorks = () => {
                         <div className="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
                             <div className="heading text-center mb-50">
                                 <span className="heading__subtitle">Featured Projects</span>
-                                <h2 className="heading__title">Our Recent Works</h2>
+                                <h2 className="heading__title"> Our Recent Works</h2>
                             </div>
                         </div>
                     </div>
