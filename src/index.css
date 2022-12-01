@@ -1108,6 +1108,15 @@ select {
   position: relative;
   z-index: 1;
 }
+.bg-img span {
+  background-image: url(./images/page-titles/9.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
 
 .background-size-auto {
   background-size: auto !important;
@@ -3081,7 +3090,7 @@ textarea.form-control {
 
 .header-transparent .nav__item .nav__item-link,
 .header-transparent .search-popup-trigger {
-  color: #ffffff;
+  /* color: #ffffff; */
 }
 
 .header-transparent .action__btn-request:before {
