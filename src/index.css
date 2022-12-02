@@ -1108,15 +1108,6 @@ select {
   position: relative;
   z-index: 1;
 }
-.bg-img span {
-  background-image: url(./images/page-titles/9.jpg);
-  background-position: center;
-  background-size: cover;
-  height: 100px;
-  width: 100%;
-  position: absolute;
-  top: 0;
-}
 
 .background-size-auto {
   background-size: auto !important;
@@ -1170,6 +1161,15 @@ select {
 }
 
 .bg-overlay-theme:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
   background-color: rgba(254, 90, 14, 0.85);
 }
 

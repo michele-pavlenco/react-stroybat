@@ -5,6 +5,7 @@ import Slider from './Slider'
 import HomeContact from './HomeContact'
 import HomeServices from './HomeServices'
 import HomeWorks from './HomeWorks'
+import HomeClients from './HomeClients'
 
 
 const Home = () => {
@@ -14,7 +15,8 @@ const Home = () => {
             <HomeContact />
             <HomeServices />
             <HomeWorks />
-            
+            <HomeClients />
+
         </div>
     )
 }

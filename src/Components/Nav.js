@@ -4,6 +4,7 @@ import LogoLight from "../images/logo/logo-light.png"
 import { Link } from 'react-router-dom'
 import { AiFillPhone } from 'react-icons/ai'
 
+
 const Nav = () => {
     return (
         <div>
@@ -22,7 +23,8 @@ const Nav = () => {
                                 <ul className="navbar-nav">
 
                                     <li className="nav__item with-dropdown">
-                                        <Link to="/" className="dropdown-toggle nav__item-link active">Home </Link>
+                                        <Link to="/" className="dropdown-toggle 
+                                        nav__item-link active" >Home </Link>
                                     </li>
 
                                     <li className="nav__item with-dropdown">

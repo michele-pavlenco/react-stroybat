@@ -1,5 +1,5 @@
 import React from 'react'
-import Work1 from '../../.././images/portfolio/grid/1.jpg';
+import Work1 from '../../.././images/portfolio/grid/object1/object1_img_4.jpeg';
 import { AiOutlineArrowRight } from 'react-icons/ai'
 
 const HomeWorks = () => {
